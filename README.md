@@ -9,10 +9,10 @@ macOS Catalina (Release 10.15.7)
 
 ### Applications, Frameworks und Libraries
 Im Rahmen der Untersuchungen zu dieser Arbeit wurde folgende Software verwendet:
-* PyCharm (2021.3.2 Professional Edition)
-* Anaconda
-* Jupyter Notebook
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
+* [PyCharm, Professional Edition](https://www.jetbrains.com/pycharm/)
+* [Anaconda, Individual Edition](https://www.anaconda.com/products/individual)
+* [Jupyter Notebook](https://jupyter.org)
+* [NumPy](https://numpy.org)
+* [pandas](https://pandas.pydata.org)
+* [matplotlib](https://matplotlib.org)
+* [seaborn](https://seaborn.pydata.org)
