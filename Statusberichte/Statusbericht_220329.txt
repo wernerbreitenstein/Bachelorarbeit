@@ -1,0 +1,31 @@
+Liebe Frau Dr. Sauer, liebe Frau Götze,
+möchte mich gerne kurz bei Ihnen melden und Sie über den aktuellen Stand der Dinge informieren.
+
+Was wurde seit den letzten Besprechungen und der Ausarbeitung des Exposés gemacht?
+– die im CSV-Format angelieferten Daten wurden in eine lokale MySQL-Datenbank importiert und in einem ersten Meeting am 22.02. besprochen 
+– ein GitHub-Repository wurde eingerichtet: https://github.com/wernerbreitenstein/Bachelorarbeit
+– das Exposé zur Bachelorarbeit wurde als PDF zu GitHub hochgeladen
+– ein Kanban-Board wurde auf GitHub angelegt: https://github.com/wernerbreitenstein/Bachelorarbeit/projects/1
+– verschiedene Tutorials zu Datenanalyse-Themen und -Tools wurden recherchiert und bearbeitet
+– die erforderliche Arbeitsumgebung (PyCharm/JupyterNotebook/Analyse-Plugins) wurde eingerichtet
+– ein miro-Board zum Brainstorming und zur Strukturierung des Projekts wurde angelegt
+
+Was soll bis zum nächsten Statusbericht zu Beginn der KW11 erreicht werden?
+– die angelieferten Originaldaten sollten vorbereitet, beschrieben und visualisiert werden (hierzu s. nächster Punkt)
+– es sollte ein zweites Treffen u.a. mit Yoel Berendsohn stattfinden, um Fragen zu klären (diese sende ich vorab per Mail)
+– zum Kapitel 2 (Grundlagen/Kontext) sollte entsprechende Literatur recherchiert werden
+– das Kapitel 2 (Grundlagen/Kontext) sollte zumindest stichwortartig skizziert werden
+– die Anforderungen/Aufgaben sind auf GitHub und miro fortlaufend zu aktualisieren
+
+Aktueller Stand der Bachelorarbeit auf GitHub: https://github.com/wernerbreitenstein/Bachelorarbeit
+Sonstige Ideen, Gedanken und Ansätze auf miro: https://miro.com/app/board/uXjVOBzZmh4=/
+
+@Frau Dr. Sauer: Von der Studienverwaltung habe ich übrigens noch keine Zulassung zur Abschlussprüfung oder irgendeine andere Antwort erhalten. Sollte ich hier selbst noch einmal aktiv werden oder einfach abwarten?
+
+Bei Rückfragen stehe ich Ihnen gerne zur Verfügung.
+
+Viele Grüße
+Werner Breitenstein
+-- 
+Werner Breitenstein · Im Schollengewann 61 · 69123 Heidelberg
+Telefon 06221-5998494 · Mobil 0177-4638783 · s70520@beuth-hochschule.de
