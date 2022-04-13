@@ -1,0 +1,27 @@
+Liebe Frau Dr. Sauer, liebe Frau Götze,
+ich möchte Sie gerne mit diesem kurzen Bericht über den aktuellen Stand der Dinge informieren.
+
+Was wurde seit dem letzten Statusbericht in der KW13 gemacht?
+– das Arbeitsdokument zur Bachelorarbeit wurde auf Basis eines Latex-Templates eingerichtet
+– im Kapitel 2 (Grundlagen/Datenbasis) wurden die ersten beiden Unterkapitel ausgearbeitet (s. Dokument auf GitHub)
+– erste einfache SQL-Abfragen wurden zum besseren Verständnis der Daten durchgeführt
+
+Was soll bis zum nächsten Statusbericht in der KW17 erreicht werden?
+– die angelieferten Originaldaten sollten zur Veranschaulichung des Ausgangszustands visualisiert werden (hierzu s. nächster Punkt)
+– zur Verbesserung des Datenverständnisses sollte ein zweites Treffen u.a. mit Y. Berendsohn stattfinden (Fragen dazu sende ich vorab per Mail)
+– das Kapitel 2 (Grundlagen/Theorie) sollte zumindest inhaltlich skizziert werden
+– das Kapitel 2 (Grundlagen/Technik) sollte zur Vorlage geeignet ausgearbeitet werden
+– die Anforderungen/Aufgaben sind auf GitHub und miro fortlaufend zu aktualisieren
+
+Aktueller Stand der Bachelorarbeit auf GitHub: https://github.com/wernerbreitenstein/Bachelorarbeit
+Sonstige Ideen, Gedanken und Ansätze auf miro: https://miro.com/app/board/uXjVOBzZmh4=/
+
+@Frau Dr. Sauer: Die Studienverwaltung hat mir am Montag per Mail die Zulassung zur Abschlussprüfung zugeschickt. Offizielles Startdatum ist nächste Woche Montag, der 18. April. Die Abgabe der Arbeit ist spätestens am 18. Juli fällig.
+
+Ich wünsche Ihnen ein schönes Osterfest und ein paar erholsame freie Tage.
+
+Viele Grüße
+Werner Breitenstein
+-- 
+Werner Breitenstein · Im Schollengewann 61 · 69123 Heidelberg
+Telefon 06221-5998494 · Mobil 0177-4638783 · s70520@beuth-hochschule.de
