@@ -1,0 +1,26 @@
+Liebe Frau Dr. Sauer, liebe Frau Götze,
+ich möchte Sie gerne mit diesem kurzen Bericht über den aktuellen Stand der Dinge informieren.
+
+Was wurde seit dem letzten Statusbericht in der KW15 gemacht?
+– in einem Treffen mit Frau Dr. Sauer wurden der aktuelle Stand der Arbeit, verschiedene Fragen und weitere Schritte besprochen
+– im Kapitel 2 (Grundlagen) wurde die Einleitung und erste Unterkapitel zur Theorie ausgearbeitet (s. Dokument auf GitHub)
+– die angelieferten Originaldaten wurden zur Veranschaulichung des Ausgangszustands testweise visualisiert
+– zur Differenzierung von Dozenten und Studenten wurden verschiedene Lösungsansätze entwickelt (s. grüne Textvorschläge im Dokument)
+
+Was soll bis zum nächsten Statusbericht in der KW19 erreicht werden?
+– zur Verbesserung des Datenverständnisses sollte ein zweites Treffen u.a. mit Y. Berendsohn stattfinden
+– das Kapitel 2 (Grundlagen) sollte für eine erste Review zur Vorlage geeignet ausgearbeitet werden
+– die Anforderungen/Aufgaben sind auf GitHub und miro fortlaufend zu aktualisieren
+
+Aktueller Stand der Bachelorarbeit auf GitHub: https://github.com/wernerbreitenstein/Bachelorarbeit
+Sonstige Ideen, Gedanken und Ansätze auf miro: https://miro.com/app/board/uXjVOBzZmh4=/
+
+Hinweis zu den verwendeten Schriftfarben im Dokument: Noch zu überarbeitende Textpassagen sind grün eingefärbt. Hinweise für mich (Regieanweisungen) sind rot eingefärbt.
+
+Sollten Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung.
+
+Viele Grüße
+Werner Breitenstein
+-- 
+Werner Breitenstein · Im Schollengewann 61 · 69123 Heidelberg
+Telefon 06221-5998494 · Mobil 0177-4638783 · s70520@beuth-hochschule.de
