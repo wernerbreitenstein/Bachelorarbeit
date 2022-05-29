@@ -1,0 +1,29 @@
+Liebe Frau Dr. Sauer, liebe Frau Götze,
+ich möchte Sie gerne mit diesem kurzen Bericht über den aktuellen Stand der Dinge informieren.
+
+Was wurde seit dem letzten Statusbericht in der KW17 gemacht?
+– in einem Treffen mit Frau Götze wurden insbesondere verschiedene Fragen zu den Daten und weitere Schritte besprochen
+– zur Unterscheidung von Dozenten und Studenten wurden zahlreiche Untersuchungen und Tests durchgeführt (s. Dokument auf GitHub)
+– zur Unterscheidung von Dozenten und Studenten wurden Änderungen an der Datenbasis vorgenommen (s. Dokument auf GitHub)
+– im Kapitel 2 (Grundlagen) wurden die Einleitung und verschiedene Unterkapitel zur Theorie bzw. zur Datenbasis ausgearbeitet,
+   so dass der jetzige Stand bereits gelesen werden kann
+
+Was soll bis zum nächsten Statusbericht in der KW21 erreicht werden?
+– Zugriff auf die MySQL-Datenbank aus JupyterNotebook heraus herstellen
+– Arbeitsdaten in Grundzügen visualisieren (Kapitel 2.3.3)
+– Untersuchungen zu Art und Umfang studentischer Interaktionen durchführen
+– fehlende Grundlagen-Kapitel zur explorativen Datenanalyse (Kapitel 2.1.3) und zur Visualisierung (Kapitel 2.1.4) ergänzen
+– Anforderungen/Aufgaben auf GitHub und miro fortlaufend aktualisieren
+
+Aktueller Stand der Bachelorarbeit auf GitHub: https://github.com/wernerbreitenstein/Bachelorarbeit
+Sonstige Ideen, Gedanken und Ansätze auf miro: https://miro.com/app/board/uXjVOBzZmh4=/
+
+Hinweis zu den verwendeten Schriftfarben im Dokument: Noch zu überarbeitende Textpassagen sind grün eingefärbt. Hinweise für mich (Regieanweisungen) sind rot eingefärbt.
+
+Sollten Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung.
+
+Viele Grüße
+Werner Breitenstein
+-- 
+Werner Breitenstein · Im Schollengewann 61 · 69123 Heidelberg
+Telefon 06221-5998494 · Mobil 0177-4638783 · s70520@beuth-hochschule.de
