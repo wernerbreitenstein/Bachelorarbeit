@@ -1,0 +1,26 @@
+Liebe Frau Dr. Sauer, liebe Frau Götze,
+ich möchte Sie gerne mit diesem kurzen Bericht über den aktuellen Stand der Dinge informieren.
+
+Was wurde seit dem letzten Statusbericht in der KW21 gemacht?
+– Grundlagen-Kapitel zur Beschreibung der Arbeitsdaten (Kapitel 2.3.1) wurde überarbeitet (bitte lesen)
+– Grundlagen-Kapitel zur Visualisierung der Arbeitsdaten (Kapitel 2.3.2) wurde ergänzt (bitte lesen)
+– Kapitel zur Unterscheidung von Identifikation von Studenten (Kapitel 3.1) wurde ergänzt (bitte lesen) 
+– Analysen und Visualisierungen zu ausgearbeiteten Kapiteln wurden als PDF und Jupyter Notebook Dokumente beigelegt
+
+Was soll bis zum nächsten Statusbericht in der KW25 erreicht werden?
+– Zeitbezogene Untersuchungen von studentischem Verhalten ausführen und im Hauptteil (Kapitel 3.2) dokumentieren 
+– Aktivitätsbezogene Untersuchungen von studentischem Verhalten ausführen und im Hauptteil (Kapitel 3.3) dokumentieren 
+– Anforderungen/Aufgaben auf GitHub und miro fortlaufend aktualisieren
+
+Aktueller Stand der Bachelorarbeit auf GitHub: https://github.com/wernerbreitenstein/Bachelorarbeit
+Sonstige Ideen, Gedanken und Ansätze auf miro: https://miro.com/app/board/uXjVOBzZmh4=/
+
+Hinweis zu den verwendeten Schriftfarben im Dokument: Noch zu überarbeitende Textpassagen sind grün eingefärbt. Hinweise für mich (Regieanweisungen) sind rot eingefärbt.
+
+Sollten Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung.
+
+Viele Grüße
+Werner Breitenstein
+-- 
+Werner Breitenstein · Im Schollengewann 61 · 69123 Heidelberg
+Telefon 06221-5998494 · Mobil 0177-4638783 · s70520@beuth-hochschule.de
