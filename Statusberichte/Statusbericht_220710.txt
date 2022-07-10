@@ -1,0 +1,26 @@
+Liebe Frau Dr. Sauer, liebe Frau Götze,
+ich möchte Sie gerne mit diesem kurzen Bericht über den aktuellen Stand der Dinge informieren.
+
+Was wurde seit dem letzten Statusbericht in der KW25 gemacht?
+– Analysen und Visualisierungen zu den Kapiteln des Hauptteils wurden abschließend durchgeführt
+– das Kapitel zur Kontinuitätsanalyse wurde ausgearbeitet
+– das Kapitel zur Dynamikanalyse wurde in Grundzügen skizziert
+
+Was soll bis zum nächsten Statusbericht in der KW29 erreicht werden?
+– Korrekturen zum Hauptteil (Kapitel 3) sollen bis 17.07. eingearbeitet werden
+– der Hauptteil (Kapitel 3) soll bis zum 17.07. fertiggestellt und zur Review vorgelegt werden
+– der Ergebnisteil (Kapitel 4) soll bis zum 17.07. skizziert und zur Review vorgelegt werden
+– Anforderungen/Aufgaben auf GitHub und miro fortlaufend aktualisieren
+
+Aktueller Stand der Bachelorarbeit auf GitHub: https://github.com/wernerbreitenstein/Bachelorarbeit
+Sonstige Ideen, Gedanken und Ansätze auf miro: https://miro.com/app/board/uXjVOBzZmh4=/
+
+Hinweis zu den verwendeten Schriftfarben im Dokument: Noch zu überarbeitende Textpassagen sind grün eingefärbt. Hinweise für mich sind rot eingefärbt.
+
+Sollten Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung.
+
+Viele Grüße
+Werner Breitenstein
+-- 
+Werner Breitenstein · Im Schollengewann 61 · 69123 Heidelberg
+Telefon 06221-5998494 · Mobil 0177-4638783 · s70520@beuth-hochschule.de
